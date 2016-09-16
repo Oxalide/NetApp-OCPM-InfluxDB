@@ -30,7 +30,7 @@ Connected to http://localhost:8086 version 0.13.0
 InfluxDB shell version: 0.13.0
 > use graphite
 Using database graphite
-> show measuremets
+> show measurements
 
 ```
 
